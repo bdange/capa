@@ -10,7 +10,7 @@ const Header = () => {
         <h1>
           flyCapacity <FontAwesomeIcon icon={faPlaneDeparture} />
         </h1>
-        <h2 className='margin-left'>Welcome to your new destination!</h2>
+        <h2 className='margin-left'>Ready for take-off!</h2>
       </div>
       <div className='container right'>
         <h1>Add your flight</h1>
